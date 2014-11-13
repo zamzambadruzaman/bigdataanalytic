@@ -1,4 +1,4 @@
-bigdataanalytic
+Big data analytic
 ===============
 
 Big data analytic repository
